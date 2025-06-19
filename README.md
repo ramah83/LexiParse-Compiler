@@ -47,11 +47,16 @@ LexiParse is a lightweight educational compiler built using **C# and Windows For
 
 <details>
 <summary><strong>Home</strong></summary>
-![Screenshot 2025-06-19 064649](https://github.com/user-attachments/assets/0e08b1b7-fa29-49d0-afb5-744ed3e44f38)
-![Screenshot 2025-06-19 064746](https://github.com/user-attachments/assets/aa832202-d795-48c8-a6c5-68d5955392dc)
-![Screenshot 2025-06-19 064816](https://github.com/user-attachments/assets/ad254b2c-6daa-4ad5-bde2-1b7ec799dc00)
-![Screenshot 2025-06-19 064830](https://github.com/user-attachments/assets/c4d62a7a-c00e-4037-a6dc-4f859483e967)
-![Screenshot 2025-06-19 064843](https://github.com/user-attachments/assets/6da4a557-0fe1-44fb-90de-ab70e828d295)
-![Screenshot 2025-06-19 064852](https://github.com/user-attachments/assets/ea3f8dcd-64f0-4610-9f43-2ed9521220ce)
+
+<br>
+
+![Screenshot 2025-06-19 064649](https://github.com/user-attachments/assets/0e08b1b7-fa29-49d0-afb5-744ed3e44f38)  
+![Screenshot 2025-06-19 064746](https://github.com/user-attachments/assets/aa832202-d795-48c8-a6c5-68d5955392dc)  
+![Screenshot 2025-06-19 064816](https://github.com/user-attachments/assets/ad254b2c-6daa-4ad5-bde2-1b7ec799dc00)  
+![Screenshot 2025-06-19 064830](https://github.com/user-attachments/assets/c4d62a7a-c00e-4037-a6dc-4f859483e967)  
+![Screenshot 2025-06-19 064843](https://github.com/user-attachments/assets/6da4a557-0fe1-44fb-90de-ab70e828d295)  
+![Screenshot 2025-06-19 064852](https://github.com/user-attachments/assets/ea3f8dcd-64f0-4610-9f43-2ed9521220ce)  
 ![Screenshot 2025-06-19 064859](https://github.com/user-attachments/assets/7978ae8d-e576-44e3-9c80-f6d6ed183cd6)
+
 </details>
+
